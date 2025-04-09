@@ -1,0 +1,2 @@
+https://cdnjs.com/
+https://cdn.jsdelivr.net/
